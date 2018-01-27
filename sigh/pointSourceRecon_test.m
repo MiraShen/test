@@ -1,3 +1,4 @@
+then
 %% Script to compare axial and full recon (no attenuation correction)
 path = '~/Dropbox (RefleXion Medical)/AlphaOne/mockdb-petExp-oct-2017/';
 D = rxmNewDeliverySession(path, true);
