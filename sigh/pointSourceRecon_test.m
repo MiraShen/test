@@ -48,3 +48,4 @@ figure;ctshow3(toGrid, D.prescan.pet.Vol, [0 -99 2]);colormap(flipud(gray));
 [PetImg FWHM50 FWHM10] = measure_fwhm(D.prescan.pet);
 
 asdfsdf
+ok
