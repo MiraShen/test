@@ -1,1 +1,2 @@
-function to calculate psf for pet
+//function to calculate psf for pet
+//add equ for pet reconstruction
