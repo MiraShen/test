@@ -3,3 +3,6 @@
 
 g = h*f
 
+//PSF h; point source f
+
+
