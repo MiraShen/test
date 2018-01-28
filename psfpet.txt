@@ -1,1 +1,4 @@
-function to calculate psf for pet
+//function to calculate psf for pet
+//convolution: image = sum of psf
+
+g = h*f
