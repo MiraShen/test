@@ -5,4 +5,13 @@ g = h*f
 
 //PSF h; point source f
 
+<<<<<<< HEAD
 Make change 2
+=======
+//test
+
+Make change 3
+
+//add unit 
+
+>>>>>>> c
